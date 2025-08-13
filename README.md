@@ -1,7 +1,7 @@
 # 📊 HR Analytics Dashboard (Excel Project)
 
 ## 📌 Deskripsi
-Proyek ini adalah dashboard analitik HR berbasis **Microsoft Excel** yang memberikan gambaran menyeluruh tentang data karyawan, tingkat attrition, distribusi usia, pendidikan, gender, dan kepuasan kerja. Visualisasi ini membantu tim HR dalam mengambil keputusan berbasis data untuk meningkatkan retensi dan kepuasan karyawan.
+Merancang dan mengembangkan Dasbor Analisis SDM interaktif menggunakan Excel untuk memantau metrik-metrik utama tenaga kerja, termasuk tingkat atrisi, demografi karyawan, tingkat kepuasan kerja, dan pergantian departemen. Panel filter terintegrasi untuk segmentasi data dinamis berdasarkan departemen dan bidang pendidikan yang memungkinkan tim SDM melakukan analisis yang terarah. Dasbor ini memberikan wawasan yang dapat ditindaklanjuti yang mengurangi waktu pembuatan laporan dan meningkatkan efisiensi pengambilan keputusan dalam strategi retensi karyawan.
 
 ## 📷 Preview Dashboard
 ![HR Analytics Dashboard](gif.gif)
