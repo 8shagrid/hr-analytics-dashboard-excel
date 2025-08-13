@@ -37,3 +37,8 @@ Dataset berisi informasi seperti:
 - Pemegang **Bachelor's Degree** paling banyak keluar.
 - Departemen **Sales** menyumbang lebih dari **50% attrition**.
 - Kepuasan kerja rata-rata masih rendah (**2.6/4**).
+
+## ✍️ Author
+8shagrid
+
+[LinkedIn](https://linkedin.com/in/dirgahalimsusilo) • [GitHub](https://github.com/8shagrid)
